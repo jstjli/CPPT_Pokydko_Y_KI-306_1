@@ -1,0 +1,10 @@
+The engine started
+The speed is: 20
+The rudder is turned to the left
+The rudder is turned to the right
+The rudder is aligned
+The engine stopped
+===== Ship info: =====
+Weight: 80000kg
+Height: 250m
+Square: 1000m2
